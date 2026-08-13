@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-tyl651.radarsatu88.cfd/sitemap.xml
